@@ -6,10 +6,6 @@ description: "A comprehensive guide to Malaysia Passports, including how to appl
 seo:
   keywords: "Malaysia passport, passport application, travel to Malaysia, Malaysian passport benefits"
 
-# Jekyll settings
-theme: jekyll-theme-minimal  # Or any theme you're using
-markdown: kramdown  # Default markdown processor, commonly used with Jekyll
-
 # Permalink settings
 permalink: "/:categories/:year/:month/:day/:title/"  # SEO-friendly permalinks for blog posts
 
